@@ -1,0 +1,39 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {  
+    width: 23%;
+    padding: 1%;
+    text-align:center;
+}
+nav { 
+    width: 73;
+    padding: 1%;
+ }
+
+ul {
+     width: 50%;
+     margin-left: auto;
+    
+ }
+
+ .heroimg {
+     height: 600pxx;
+     padding: 25px;
+ }
+
+ .footer {
+    background-color: 373738 ;
+    padding-right: 15px;
+    margin: 5px;
+ }
+
+ ul {   
+    display:inline-block;
+    vertical-align:top;
+    padding: 10px;
+    }
+
+
