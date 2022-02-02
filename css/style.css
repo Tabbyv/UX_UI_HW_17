@@ -1,3 +1,4 @@
+
 .inline-block {
     display: inline-block;
     vertical-align: top;
@@ -9,14 +10,19 @@
     text-align:center;
 }
 nav { 
-    width: 73;
+    width: 73%;
     padding: 1%;
  }
 
-ul {
+ p {
+    color:rgb(39, 109, 167);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;   
+ }
+.footer {
      width: 50%;
-     margin-left: auto;
-    
+     margin-left: auto; 
  }
 
  .heroimg {
@@ -25,7 +31,7 @@ ul {
  }
 
  .footer {
-    background-color: 373738 ;
+    background-color: rgb(39, 109, 167);
     padding-right: 15px;
     margin: 5px;
  }
