@@ -1,3 +1,4 @@
+body {background: white;}
 
 .inline-block {
     display: inline-block;
@@ -17,29 +18,28 @@ nav {
  p {
     color:rgb(39, 109, 167);
     font-family: 'Open Sans', sans-serif;
-    font-size: 24px;
-    font-weight: bold;   
+    font-size: 16px;
+    font-weight: roman;   
  }
 .footer {
-     width: 50%;
-     margin-left: auto; 
+     width: 100%;
+     margin-left:auto; 
+     background-color: rgb(39, 109, 167);
+     padding-right: 15px;
+     margin: 5px;
  }
 
  .heroimg {
-     height: 600pxx;
+     height: 600px;
      padding: 25px;
- }
-
- .footer {
-    background-color: rgb(39, 109, 167);
-    padding-right: 15px;
-    margin: 5px;
  }
 
  ul {   
     display:inline-block;
     vertical-align:top;
-    padding: 10px;
+    padding: 30px;
+    color: white
+
     }
 
 
